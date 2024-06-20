@@ -95,7 +95,7 @@ generateReactionCommand("bite", "🦷");
 generateReactionCommand("glomp", "🤗");
 generateReactionCommand("slap", "👋");
 generateReactionCommand("kill", "💀");
-generateReactionCommand("kick", "🦵");
+generateReactionCommand("kick", "👞");
 generateReactionCommand("happy", "😄");
 generateReactionCommand("wink", "😉");
 generateReactionCommand("poke", "👉");
