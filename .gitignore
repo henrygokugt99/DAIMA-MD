@@ -1,5 +1,5 @@
 /auth
-/set.en
+/set.env
 /package-lock.json
 /node_modules
 /store.json
