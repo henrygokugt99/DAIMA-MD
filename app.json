@@ -1,16 +1,16 @@
 {
-  "name":"MEGATRON-BOT",
-  "description":"An easy and simple WhatsApp bot With over 150 features developed by Damon.",
+  "name":"DAIMA-BOT",
+  "description":"An easy and simple WhatsApp bot With over 150 features developed by NEXA.",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/6965abd5ea26b6cc84a52.jpg",
-  "repository":"https://github.com/Madmkisii/Megatron-Bot",
+  "logo":"https://telegra.ph/file/db1b7e3980aa4a872f8ef.jpg",
+  "repository":"https://github.com/henrygokugt99/DAIMA-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"/",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MEGATRON-BOT",
+      "value":"DAIMA-BOT",
       "required":false
 
     } ,
@@ -55,7 +55,7 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+     "required" :true
     },
    "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254790593618"
+    "value": "256xxxxxxxx"
   },
     "WARN_COUNT":
   {
