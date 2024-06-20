@@ -68,7 +68,7 @@ exports.webp2mp4File=async(path) =>{
                                    const result = 'https:' + $('div#output > p.outfile > video > source').attr('src')
                                    resolve({
                                                 status: true,
-                                                message: "Created By MRHRTZ",
+                                                message: "Created By NEXA",
                                                 result: result
                                    })
                           }).catch(reject)
