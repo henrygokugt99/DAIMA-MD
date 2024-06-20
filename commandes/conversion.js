@@ -150,7 +150,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: '༒𝐃𝚫𝚳𝚯𝚴𖤍༒',
+            pack: '༒₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █𖤍༒',
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -163,7 +163,7 @@ mediamsg = msgRepondu.videoMessage
 
 });
 
-zokou({nomCom:"take",categorie: "Conversion", reaction: "👨🏿‍💻"},async(origineMessage,zk,commandeOptions)=>{
+zokou({nomCom:"take",categorie: "Conversion", reaction: "🧑‍🔬"},async(origineMessage,zk,commandeOptions)=>{
    const {ms , msgRepondu,arg,repondre,nomAuteurMessage} = commandeOptions ;
 
   if(!msgRepondu) { repondre( 'make sure to mention the media' ) ; return } ;
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: '𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓',
+      author: 'ƊƛƖMƛ MƊ',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
@@ -314,7 +314,7 @@ zokou({nomCom:"photo",categorie: "Conversion", reaction: "👨🏿‍💻"},asyn
         });
 });
 
-zokou({ nomCom: "trt", categorie: "Conversion", reaction: "👨🏿‍💻" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "trt", categorie: "Conversion", reaction: "🏂" }, async (dest, zk, commandeOptions) => {
 
   const { msgRepondu, repondre , arg } = commandeOptions;
 
