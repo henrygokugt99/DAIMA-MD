@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "daima.js"]
+CMD ["node", "flash.js"]
