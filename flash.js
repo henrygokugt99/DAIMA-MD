@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Flash-Md',
+                                        pack: 'Nexa-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: '༒𝐃𝚫𝚳𝚯𝚴𖤍༒',
+                pack: '༒Đ₳ł₥₳𖤍༒',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powered by *༒𝐃𝚫𝚳𝚯𝚴𖤍༒*`;
+📌Powered by *༒Đ₳ł₥₳𖤍༒*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *MEGATRON-BOT*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *Đ₳ł₥₳ ₥Đ*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,7 +858,7 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓 is CONNECTED』*
+*『Đ₳ł₥₳ ₥Đ 𝐁𝐎𝐓 is CONNECTED』*
 
      
 ║❒Creator: *༒𝐃𝚫𝚳𝚯𝚴𖤍༒*
@@ -873,7 +873,7 @@ ${metadata.desc}
 
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo
+https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r
 
  
 
