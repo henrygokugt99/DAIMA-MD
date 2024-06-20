@@ -663,7 +663,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/6965abd5ea26b6cc84a52.jpg';
+        ppgroup = 'https://telegra.ph/file/d63f261cce027a80f41d0.jpg';
     }
 
     try {
@@ -861,7 +861,7 @@ ${metadata.desc}
 *『Đ₳ł₥₳ ₥Đ 𝐁𝐎𝐓 is CONNECTED』*
 
      
-║❒Creator: *༒𝐃𝚫𝚳𝚯𝚴𖤍༒*
+║❒Creator: *༒ᗪ卂丨爪卂 爪ᗪ𖤍༒*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *25.3.2024*
@@ -878,7 +878,7 @@ https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r
  
 
 
-              *𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍-𝐁𝐎𝐓*`;
+              *ᗪ卂丨爪卂 爪ᗪ*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
