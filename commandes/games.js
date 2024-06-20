@@ -190,9 +190,7 @@ Send the number off right answers`
        let rep = await  zk.awaitForMessage({
         sender: auteurMessage,
         chatJid : origineMessage,
-        timeout: 15000 // 30 secondes     } 
-
-export default handler
+        timeout: 15000 // 30 secondes
     });
    let repse ;  
     try {
@@ -213,4 +211,4 @@ export default handler
             console.log(error);
         }
     }
-);
+); 
