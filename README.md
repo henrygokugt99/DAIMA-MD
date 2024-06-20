@@ -69,4 +69,4 @@ Join our WhatsApp support group for assistance and discussions!
  ## `💀DEVELOPER💀` 
 <a href="https://github.com/henrygokugt99"><img src="https://i.imgur.com/iYHCSEa.jpeg" width="250" height="250" alt="NEXA"/></a>
   
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
