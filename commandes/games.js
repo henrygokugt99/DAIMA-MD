@@ -190,20 +190,7 @@ Send the number off right answers`
        let rep = await  zk.awaitForMessage({
         sender: auteurMessage,
         chatJid : origineMessage,
-        timeout: 15000 // 30 secondes
-
-           let handler = async (m, { conn }) => {
-  let who = m.quoted ? m.quoted.sender : m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-  let name = conn.getName(who)
-  let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './XLICON.jpg')
-  conn.sendFile(m.chat, global.API('https://some-random-api.com', '/canvas/overlay/gay', {
-    avatar: pp, 
-  }), 'gay.png', `🏳️‍🌈  *Gay :* ${name}\n\nWho wants to rape this gay☠️? `, m)
-}
-
-handler.help = ['gay @user']
-handler.tags = ['fun']
-handler.command = ['gay'] 
+        timeout: 15000 // 30 secondes     } 
 
 export default handler
     });
