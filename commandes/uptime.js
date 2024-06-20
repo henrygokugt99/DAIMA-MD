@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝑼𝒑𝒕𝒊𝒎𝒆 𝒐𝒇  𝑴𝑬𝑮𝑨𝑻𝑹𝑶𝑵 𝑩𝑶𝑻: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_𝑼𝒑𝒕𝒊𝒎𝒆 𝒐𝒇  🇩🇦🇮🇲🇦_MD: ${runtime(process.uptime())}_*`) 
 
    
 
