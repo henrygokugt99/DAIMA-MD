@@ -6,7 +6,7 @@ const axios = require('axios');
 zokou({
   nomCom: "hwaifu",
   categorie: "Hentai",
-  reaction: "🙄"
+  reaction: "❌"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
