@@ -30,7 +30,7 @@ ___
 ___
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
-
+<img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
 
 ## WhatsApp Channel
 
