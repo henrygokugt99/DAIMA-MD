@@ -80,6 +80,7 @@ Join our WhatsApp support group for assistance and discussions!
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 <h2>📖TRY OTHER DEPLOYMENT METHODS 📖</h2>
+
 #### DEPLOY TO CODESPACE
 
 3. If You don't have a account in Codespace. Create a account.
