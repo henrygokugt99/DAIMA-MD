@@ -67,7 +67,7 @@ Join our WhatsApp support group for assistance and discussions!
 # <a href="(https://replit.com/github/henrygokugt99/DAIMA-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
 
 <h1>NEW DEPOLYMENTS </h1>
-<h4>⚠️ warning you can only deploy for free once ⚠️</h4>
+<h2>⚠️ warning you can only deploy for free once ⚠️</h2>
 
 #### DEPLOY TO RENDER
 
