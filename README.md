@@ -79,6 +79,8 @@ Join our WhatsApp support group for assistance and discussions!
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <h2>📖TRY OTHER DEPLOYMENT METHODS 📖</h2>
 
 #### DEPLOY TO CODESPACE
