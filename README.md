@@ -65,6 +65,21 @@ Join our WhatsApp support group for assistance and discussions!
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/henrygokugt99/DAIMA-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/henrygokugt99/DAIMA-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
+
+<h1>NEW DEPOLYMENTS </h1>
+<h4>⚠️ warning you can only deploy for free once ⚠️</h4>
+
+#### DEPLOY TO RENDER
+
+13. If You don't have a account in Render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+14. Now Deploy
+    <br>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  ## `💀DEVELOPER💀` 
 <a href="https://github.com/henrygokugt99"><img src="https://i.imgur.com/iYHCSEa.jpeg" width="250" height="250" alt="NEXA"/></a>
