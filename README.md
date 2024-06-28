@@ -30,7 +30,7 @@ ___
 ___
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
-[![-----------------------------------------------------]
+(https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## WhatsApp Channel
 
