@@ -64,7 +64,7 @@ Join our WhatsApp support group for assistance and discussions!
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/henrygokugt99/DAIMA-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
 
-<h1>NEW DEPOLYMENTS </h1>
+<h1>🗽NEW DEPOLYMENTS🎊</h1>
 <h2>⚠️ warning you can only deploy for free once ⚠️</h2>
 
 #### DEPLOY TO RENDER no
@@ -76,6 +76,12 @@ Join our WhatsApp support group for assistance and discussions!
 14. Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+### DEPLOY ON CLEVER CLOUD
+
+1. If you don't have an account in Clever Cloud, create one and deploy.
+    <br>
+    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
