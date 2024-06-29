@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23">
-    <img alt="wasi" height="300" src="https://i.imgur.com/p2BmFmo.mp4">
+    <img alt="wasi" height="300" src="https://i.imgur.com/AZWOmQZ.jpeg">
     <h1 align="center">DAIMA MD </h1>
   </a>
 </p>
