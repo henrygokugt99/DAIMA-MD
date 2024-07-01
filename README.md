@@ -133,6 +133,12 @@ Join our WhatsApp support group for assistance and discussions!
 12. Now Deploy
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
+
+## `NEW DEPLOYMENT`
+NOW Deploy🎊
+<br>
+## DEPLOY IN KOYEB    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  ## `💀DEVELOPER💀` 
 <a href="https://github.com/henrygokugt99"><img src="https://i.imgur.com/iYHCSEa.jpeg" width="250" height="250" alt="NEXA"/></a>
