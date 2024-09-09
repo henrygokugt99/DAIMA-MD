@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
 │𖤍 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │𖤍 *Platform* : Linux 
 │𖤍 *Uptime*: ${runtime(process.uptime())}
-╰─────♚🤝₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █🔥³¹⁶─────◆ \n\n`;
+╰─────♚🤝DAIMA▂ ▄ ▅ ▆ ▇ █🔥³¹⁶─────◆ \n\n`;
 
   let menuMsg=`  
 
